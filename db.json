@@ -1,0 +1,53 @@
+{
+  "product": [
+    {
+      "id": 2,
+      "name": "Chicken 65",
+      "description": "Yummy Chicken",
+      "url": "../../assets/images/3.jpg",
+      "price": 350
+    },
+    {
+      "id": 3,
+      "name": "Muttan Chukka",
+      "description": "Goat meet",
+      "url": "../../assets/images/4.jpg",
+      "price": 100
+    },
+    {
+      "id": 4,
+      "name": "Apple Juice",
+      "description": "Made with fresh apple",
+      "url": "../../assets/images/5.jpg",
+      "price": 95
+    },
+    {
+      "No": 8,
+      "name": "Mango",
+      "price": 60,
+      "url": "../../assets/images/8.jpg\t",
+      "id": 5
+    },
+    {
+      "No": 6,
+      "name": "Pizza ",
+      "price": 650,
+      "url": "../../assets/images/9.jpg\t",
+      "id": 6
+    },
+    {
+      "No": 5,
+      "name": "Jilli",
+      "price": 20,
+      "url": "../../assets/images/7.jpg\t",
+      "id": 7
+    }
+  ],
+  "profile": {
+    "name": "typicode"
+  },
+  "admin": {
+    "username": "Jeni",
+    "password": "Pass"
+  }
+}
